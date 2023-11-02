@@ -29,7 +29,7 @@ bio: My research interests include deep learning, medical image anaylsis and fed
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Federated Learning
   - Computer Vision
   - Medical Image
 
