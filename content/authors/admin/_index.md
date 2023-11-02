@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 薛琪耀
+title: Qiyao Xue
 
 # Name pronunciation (optional)
-name_pronunciation: Qiyao Xue
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Qi yao
