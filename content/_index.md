@@ -128,9 +128,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: news
     content:
-      title: Recent Posts
+      title: Recent News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -138,7 +138,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - news
         author: ""
         category: ""
         tag: ""
@@ -155,12 +155,12 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: blogs
     content:
-      title: Projects
+      title: Blogs
       filters:
         folders:
-          - project
+          - blogs
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
