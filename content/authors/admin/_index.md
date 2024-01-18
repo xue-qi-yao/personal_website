@@ -37,8 +37,14 @@ interests:
 education:
   courses:
     - course: BEng in Electrical Engieering
-      institution: The Hong Kong Polytechnic University
+      institution: Hong Kong Polytechnic University
       year: 2019-2023
+    - course: Exchange Student
+      institution: Unversity of Maryland, College Park
+      year: 2022
+    - course: Research Assistant
+      institution: Chinese University of Hong Kong
+      year: 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -87,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:19083647d@connect.polyu.hk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -99,7 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/xue-qi-yao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -114,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qiyao Xue graduated from Hong Kong Polytechnic Univeristy with a bachelor degree major in Electrical Engineering minor in Applied Mathematics. His research interests include federated learning, computer vision and medical image analysis. He is currently working at Chinese University of Hong Kong as a research assistant under the supervision of Prof Qi Dou.
 {style="text-align: justify;"}
